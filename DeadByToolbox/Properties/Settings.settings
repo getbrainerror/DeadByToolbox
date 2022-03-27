@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DeadByToolbox.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="InventoryOverride" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CurrencySpoofer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CurrencyCells" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">420</Value>
+    </Setting>
+    <Setting Name="CurrencyShards" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">69</Value>
+    </Setting>
+    <Setting Name="CurrencyBloodpoints" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1337</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
