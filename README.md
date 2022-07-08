@@ -2,7 +2,7 @@
 Open source proxy for dead by daylight
 
 Currently implemented:
-- SSL Bypass Installer
+- SSL Bypass Installer (Outdated, Steam wont work, Microsoft Store and Epic Games should work without)
 - Cookie Grabber
 - Inventory Override (Market File)
 - Currency Spoofer
